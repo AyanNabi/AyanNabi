@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan</h1>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**,**Flutter**
 
 
 
