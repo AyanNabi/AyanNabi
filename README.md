@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayan</h1>
 
-- 🌱 I’m currently learning **Flutter**, **React Native**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
