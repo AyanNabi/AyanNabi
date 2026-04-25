@@ -21,7 +21,7 @@ My current work includes developing backend services, integrating APIs, and impr
 * Java
 * C#
 * JavaScript
-* C
+
 
 **Frameworks & Technologies**
 
@@ -30,16 +30,17 @@ My current work includes developing backend services, integrating APIs, and impr
 * REST APIs
 * MVC Architecture
 
+
 **Databases**
 
 * PostgreSQL
-* Microsoft SQL Server
+* Microsoft SQL Server (MSS)
 
 **Tools**
 
 * Git
 * Postman
-* Docker (basic)
+* Docker
 * Bootstrap, Tailwind, Sass
 
 ---
