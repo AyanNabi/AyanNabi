@@ -51,8 +51,3 @@ My current work includes developing backend services, integrating APIs, and impr
 * API design and implementation
 * Database design and integration
 * Writing clean and maintainable code
-
----
-
-### Contact
-* Email: [anabizada19943@ada.edu.az](mailto:anabizada19943@ada.edu.az)
