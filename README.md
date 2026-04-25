@@ -1,68 +1,59 @@
-<h1 align="center">Hi 👋, I'm Ayan</h1>
+<h1 align="center">Ayan Nabizada</h1>
 
 <p align="center">
-  <em>"After our endless walk, we never reached the carrot… and ended up with nothing."</em>
+  Java & Spring Boot Developer
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### About
 
-* 🎓 IT student passionate about building real-world systems
-* ⚙️ Currently developing **Java Spring Boot applications**
-* 🚀 Interested in **backend development, APIs, and system design**
-* 🌱 Exploring **microservices, REST APIs, and cloud deployment**
-* 💡 Working on impactful ideas like **Smart Campus & NFC systems**
+I am an Information Technology student with a focus on backend development using Java and Spring Boot. I build RESTful APIs, work with relational databases, and follow structured design principles to create reliable and maintainable systems.
+
+My current work includes developing backend services, integrating APIs, and improving system architecture through practical projects.
 
 ---
 
-### ☕ Backend Focus
+### Technical Skills
 
-* 🔹 **Java + Spring Boot**
-* 🔹 RESTful API design
-* 🔹 MVC architecture
-* 🔹 Database integration (PostgreSQL / SQL Server)
-* 🔹 Authentication & validation
-* 🔹 Docker basics
+**Languages**
 
----
+* Java
+* C#
+* JavaScript
+* C
 
-### 🛠️ Languages & Tools
+**Frameworks & Technologies**
 
-<p align="center">
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
-</p>
+* Spring Boot
+* .NET
+* REST APIs
+* MVC Architecture
 
----
+**Databases**
 
-### 📌 Current Focus
+* PostgreSQL
+* Microsoft SQL Server
 
-* Building **Spring Boot REST APIs**
-* Learning **clean architecture & best practices**
-* Improving **backend performance & scalability**
+**Tools**
+
+* Git
+* Postman
+* Docker (basic)
+* Bootstrap, Tailwind, Sass
 
 ---
 
-### 📈 GitHub Stats
+### Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+* Backend development with Spring Boot
+* API design and implementation
+* Database design and integration
+* Writing clean and maintainable code
 
 ---
 
-### 🌐 Connect With Me
+### Contact
 
-<p align="center">
-  <a href="mailto:anabizada19943@ada.edu.az">📧 Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
-</p>
+* Email: [anabizada19943@ada.edu.az](mailto:anabizada19943@ada.edu.az)
+* GitHub: https://github.com/YOUR_USERNAME
