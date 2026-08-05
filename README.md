@@ -1,8 +1,5 @@
 <h1 align="center">Ayan Nabizada</h1>
 
-<p align="center">
-  Java & Spring Boot Developer
-</p>
 
 ---
 
